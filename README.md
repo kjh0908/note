@@ -22,3 +22,5 @@ import java.util.Random;
 ```
 
 import는 직접 작성하지 않고 단축키인 crtl + shift + o를 누릅니다.
+
+난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98) 누르세요.
